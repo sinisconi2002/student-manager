@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="430cfcfd-5a9a-4913-aa4b-256692cdcc69" name="Changes" comment="Added use case diagram and README">
-      <change afterPath="$PROJECT_DIR$/src/main/java/loose/oose/fis/lab/student/manager/model/Student.java" afterDir="false" />
+    <list default="true" id="430cfcfd-5a9a-4913-aa4b-256692cdcc69" name="Changes" comment="SM-2 Implemented the Student.java file">
+      <change afterPath="$PROJECT_DIR$/src/main/java/loose/oose/fis/lab/student/manager/controllers/ViewStudentsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/loose/oose/fis/lab/student/manager/fxml/view-students.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/studentmanager/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loose/oose/fis/lab/student/manager/HelloApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/studentmanager/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loose/oose/fis/lab/student/manager/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/studentmanager/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/loose/oose/fis/lab/student/manager/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loose/oose/fis/lab/student/manager/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loose/oose/fis/lab/student/manager/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/loose/oose/fis/lab/student/manager/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loose/oose/fis/lab/student/manager/model/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +19,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -112,7 +111,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648103896527</updated>
-      <workItem from="1648655721775" duration="2135000" />
+      <workItem from="1648655721775" duration="3072000" />
     </task>
     <task id="LOCAL-00001" summary="Added use case diagram and README">
       <created>1648656043640</created>
@@ -128,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648656717633</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="SM-2 Implemented the Student.java file">
+      <created>1648658035104</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648658035104</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -194,7 +200,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit with a Hello World JavaFX application" />
     <MESSAGE value="Added use case diagram and README" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added use case diagram and README" />
+    <MESSAGE value="SM-2 Implemented the Student.java file" />
+    <option name="LAST_COMMIT_MESSAGE" value="SM-2 Implemented the Student.java file" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
